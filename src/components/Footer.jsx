@@ -68,7 +68,7 @@ export default function Footer() {
                 </div>
             </div>
             <div className="bg-stone-900 h-20 w-full px-2 py-6">
-                <p className="text-stone-200 font-light text-center">Copyright © 2024 Created by Shreyas S</p>
+                <p className="text-stone-200 font-light text-center">Copyright © 2024 Created by Darshan N Shetty</p>
             </div>
         </footer >
     )
